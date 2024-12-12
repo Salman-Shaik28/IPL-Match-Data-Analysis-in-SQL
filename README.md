@@ -66,7 +66,7 @@ The dataset contains delivery-level information, including match ID, innings, ov
 
 Clone the repository:
 
-git clone https://github.com/Salman-Shaik28/ipl-match-data-analysis.git
+git clone https://github.com/Salman-Shaik28/IPL-Match-Data-Analysis-in-SQL
 
 Import the dataset into MySQL.
 
